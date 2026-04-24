@@ -37,9 +37,3 @@ Uygulama açıldıktan sonra tarayıcında `http://127.0.0.1:7860` adresine git.
 2. **Alerjenini** yaz (Örn: Süt, Gluten, Fıstık)
 3. Sonucu gör: **GÜVENLİ ✅** veya **RİSKLİ ⚠️**
 
-## 📝 Sunum Notları
-
-- Proje **OCR + LLM** kombinasyonu kullanır
-- Türkçe ve İngilizce metin desteği vardır
-- Gerçek zamanlı analiz yapar
-- Hugging Face üzerinden ücretsiz çalışır
