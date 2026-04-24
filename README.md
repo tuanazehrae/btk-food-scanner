@@ -6,6 +6,7 @@ Gıda ürünlerinin içindekiler listesini fotoğrafla tarayarak alerjen kontrol
 OCR (EasyOCR) — Ürün fotoğrafından içindekiler metnini çıkarır
 LLM (Mistral) — Metni analiz ederek alerjen riskini değerlendirir
 Gradio Arayüzü — Kullanıcı dostu web arayüzü sunar
+
 📦 Kurulum
 # Klasöre git
 cd FoodScanner
@@ -15,6 +16,7 @@ pip install -r requirements.txt
 ⚙️ Ayarlar
 Hugging Face adresinden ücretsiz bir API token'ı al
 main.py içindeki HUGGING_FACE_TOKEN_BURAYA kısmını kendi token'ınla değiştir
+
 ▶️ Çalıştırma
 python main.py
 Uygulama açıldıktan sonra tarayıcında http://127.0.0.1:7860 adresine git.
